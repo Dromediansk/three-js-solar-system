@@ -1,6 +1,6 @@
 // https://vitejs.dev/config/
 export default {
-  base: "/",
+  base: "/three-js-solar-system/",
   root: "src",
   publicDir: "../static/",
   build: {
